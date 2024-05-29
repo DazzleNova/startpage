@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.proton.me',
 		},
 		{
 			id: '3',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Lemmy',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://lemmy.cafe',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'DuckDuckGo',
+			icon: 'search',
+			link: 'https://start.duckduckgo.com/',
 		},
 	],
 
