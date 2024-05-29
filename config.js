@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'DuckDuckGo',
+			icon: 'search',
+			link: 'https://start.duckduckgo.com/',
 		},
 		{
 			id: '2',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'DuckDuckGo',
-			icon: 'search',
-			link: 'https://start.duckduckgo.com/',
+			name: 'GitHub',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 	],
 
