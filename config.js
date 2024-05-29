@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Invidious',
+					link: 'https://yewtu.be/',
 				},
 			],
 		},
