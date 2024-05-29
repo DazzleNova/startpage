@@ -139,8 +139,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'DuckDuckGo',
+					link: 'https://start.duckduckgo.com',
 				},
 				{
 					name: 'Classic',
@@ -184,7 +184,7 @@ const CONFIG = {
 	secondListsContainer: [
 		{
 			icon: 'shopping-cart',
-			id: '1',
+			id: '3',
 			links: [
 				{
 					name: 'Amazon Japan',
@@ -206,7 +206,7 @@ const CONFIG = {
 		},
 		{
 			icon: 'github',
-			id: '2',
+			id: '4',
 			links: [
 				{
 					name: 'Front',
