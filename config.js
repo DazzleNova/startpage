@@ -161,12 +161,12 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Alternativeto',
+					link: 'https://www.alternativeto.net',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Linux Mint',
+					link: 'https://www.linuxmint.com',
 				},
 				{
 					name: 'Trello',
@@ -184,7 +184,7 @@ const CONFIG = {
 	secondListsContainer: [
 		{
 			icon: 'shopping-cart',
-			id: '3',
+			id: '1',
 			links: [
 				{
 					name: 'Amazon Japan',
@@ -206,7 +206,7 @@ const CONFIG = {
 		},
 		{
 			icon: 'github',
-			id: '4',
+			id: '2',
 			links: [
 				{
 					name: 'Front',
