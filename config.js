@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://start.duckduckgo.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Anilist',
+					link: 'https://anilist.co',
 				},
 				{
 					name: 'Oldies',
