@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://www.linuxmint.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Proton Mail',
+					link: 'https://mail.proton.me',
 				},
 				{
 					name: 'Slack',
